@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Haga
+- 👋 Hi, I’m **Haga**
 - 👀 I like coding
 - 🌱 I’m currently learning javascript and php framework
 - 💞️ I’m looking for collaborate
