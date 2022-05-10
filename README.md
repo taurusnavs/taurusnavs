@@ -6,8 +6,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=taurusnavs&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taurusnavs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taurusnavs&theme=radical"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=taurusnavs"/>
 
 Programming languages, design & development tools
