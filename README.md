@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m **Haga**
 - 👀 I like coding
 - 🌱 I’m currently learning javascript and php framework
@@ -6,7 +7,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taurusnavs&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taurusnavs&theme=radical&layout=compact"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=taurusnavs"/>
 
 Programming languages, design & development tools
