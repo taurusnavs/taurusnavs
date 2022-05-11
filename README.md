@@ -7,7 +7,7 @@
 
 
 
-<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=taurusnavs&layout=compact"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=taurusnavs"/>
+<img width= 45% float= right src="https://github-readme-stats.vercel.app/api/top-langs?username=taurusnavs&layout=compact"/> <img width= 45% src="https://github-readme-streak-stats.herokuapp.com/?user=taurusnavs"/>
 
 Programming languages, design & development tools
 
