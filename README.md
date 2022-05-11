@@ -5,7 +5,7 @@
 - 💞️ I’m looking for collaborate
 - 📫 Feel free to contact me : taurus.navs16@gmail.com
 
-
+![](https://komarev.com/ghpvc/?username=taurusnavs&color=blueviolet)
 
 <img width= 45% float= right src="https://github-readme-stats.vercel.app/api/top-langs?username=taurusnavs&layout=compact"/> <img width= 45% src="https://github-readme-streak-stats.herokuapp.com/?user=taurusnavs"/>
 
