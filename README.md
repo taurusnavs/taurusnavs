@@ -1,13 +1,14 @@
 
-- 👋 Hi, I’m **Haga**
-- 👀 I like coding
-- 🌱 I’m currently learning javascript and php framework
-- 💞️ I’m looking for collaborate
-- 📫 Feel free to contact me : taurus.navs16@gmail.com
+<h1 align="center">👋 Hi, I’m Haga</h1><br>
+
+<p>👀 I like coding</p> 
+<p>🌱 I’m currently learning javascript and php framework</p>
+<p>💞️ I’m looking for collaborate</p>
+<p>📫 Feel free to contact me : taurus.navs16@gmail.com</p><br>
 
 ![](https://komarev.com/ghpvc/?username=taurusnavs&color=blueviolet)
 
-<img width= 45% float= right src="https://github-readme-stats.vercel.app/api/top-langs?username=taurusnavs&layout=compact"/> <img width= 45% src="https://github-readme-streak-stats.herokuapp.com/?user=taurusnavs"/>
+<img width= 45% float= right src="https://github-readme-stats.vercel.app/api/top-langs?username=taurusnavs&layout=compact"/> <img width= 45% src="https://github-readme-streak-stats.herokuapp.com/?user=taurusnavs"/><br>
 
 Programming languages, design & development tools
 
