@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I’m Haga</h1><br>
 
 <p>👀 I like coding</p> 
-<p>🌱 I’m currently learning javascript and php framework</p>
+<p>🌱 I’m currently learning automatization and all about IA</p>
 <p>💞️ I’m looking for collaborate</p>
 <p>📫 Feel free to contact me : taurus.navs16@gmail.com</p><br>
 
